@@ -1,0 +1,17 @@
+h1,h2{
+    text-align: center;
+    font-family: serif;
+    
+}
+.photo1 {
+    align-items: center;
+    margin: 10px;
+    
+    .photo2 {
+    align-items: center;
+    margin: 100px;} 
+    
+}
+body{
+    align-items: center;
+}
